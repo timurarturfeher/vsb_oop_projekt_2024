@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Vagon.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="VagonDruhejTriedy.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="VagonPrvejTriedy.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RestauracnyVagon.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="VagonBusinessTriedy.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Stanica.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Trasa.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Vlak.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="OsobnyVlak.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Rychlik.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Expres.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="InterCity.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="EuroCity.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SuperCity.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Railjet.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SimulacnySystem.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Vlak.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="EuroCity.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Expres.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="InterCity.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="OsobnyVlak.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Railjet.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RestauracnyVagon.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Rychlik.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SimulacnySystem.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Stanica.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SuperCity.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Trasa.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Vagon.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="VagonBusinessTriedy.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="VagonDruhejTriedy.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="VagonPrvejTriedy.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
